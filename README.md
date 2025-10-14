@@ -2,8 +2,11 @@
 
 ## A Study of Memory Neural Network Architectures Based on Fuzzy Logic for Financial Time Series Forecasting
 
-``` Тесты_FuzzyLSTM1m1h1d.ipynb``` - тесты всех моделей на разных тиках
+``` Tests_Fuzzy.ipynb``` - актуальные тесты всех моделей на разных тиках
 
+
+-----
+(старое)
 ``` Fuzzy_data_LSTM.ipynb``` - методы фаззификации входных данных
 
 ``` LSTM.ipynb``` - классическая LSTM для прогнозирования финансовых временных рядов
